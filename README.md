@@ -7,12 +7,11 @@ https://static.bc-edx.com/data/web/mars_news/index.html
 ---------------------------------
 Content of this repository
 ---------------------------------
+There are two Jupyter notebopoks:
 
-
-
-
-
-
+    - part_1_mars_news.ipynb --> This is for part one of this challenge
+    - part_2_mars_weather.ipynb --> This is for part two of this challenge
+    - mars_temperature_data.csv --> The data which I exportd from my dataframe 
 
 -------------------------------------------------
 Instructions for Web Scraping Challenge
@@ -85,5 +84,7 @@ This new assignment consists of two technical products:
 References
 -------------------------------------------------
 The Mars News websiteLinks to an external site. is operated by edX Boot Camps LLC for educational purposes only. The news article titles, summaries, dates, and images were scraped from NASA's Mars NewsLinks to an external site. website in November 2022. Images are used according to the JPL Image Use PolicyLinks to an external site., courtesy NASA/JPL-Caltech.
+
+Note: All the activities in this challenge was similar to what we have practiced during our class works for this Module, just for the part-2 last diagram (How many terrestrial days exist in a Martian year?) I used tutor session to assist me with the calculation and explain how to come up with the results.
 
       
